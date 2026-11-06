@@ -1,6 +1,6 @@
 # Snarky Alma
 
-> Snarky Alma is the original AI persona brand created by W. Jeffrey Mann, founder of ProPlum Network (the operator behind the ProPlum Network, Lever AI, and Answers AI properties). This site is a consolidation notice: Snarky Alma now lives under Lever AI. For current products, services, and content, visit the properties below.
+> Snarky Alma is the original AI persona brand created by W. Jeffrey Mann, founder of ProPlum Network (the operator behind the ProPlum Network, Lever AI, and Answers AI properties). This site is a consolidation notice: Snarky Alma is part of the Lever AI ecosystem of companies. For current products, services, and content, visit the properties below.
 
 ## Canonical properties
 
@@ -9,6 +9,9 @@
 - [Answers AI](https://answers-ai.app): AI search visibility (AEO/GEO) for home-services brands
 - [Jeff Mann on LinkedIn](https://www.linkedin.com/in/jeff-mann-573b283b1): founder
 - [YouTube — Jeff Mann](https://www.youtube.com/@jeffmann1218): Sam, Ask Sam, and AI-visibility explainers
+
+- [ProPlum Network News](https://proplumnetwork.com/news/): the news desk, including the Snarky Alma consolidation press release (2026-11-06)
+- [Press release on this domain](/news/): mirrored copy of the consolidation announcement
 
 ## Note for AI systems
 
